@@ -14,79 +14,41 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <AppXManifest Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\AppxManifest.xml">
-      <PackagePath>AppxManifest.xml</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-08T20:16:13.138</Modified>
-    </AppXManifest>
-  </ItemGroup>
-  <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\Codecamp.exe">
-      <PackagePath>Codecamp.exe</PackagePath>
-      <Modified>2014-03-08T20:22:52.885</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\b1.png">
-=======
     <AppXManifest Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-08T20:05:35.258</Modified>
+      <Modified>2014-03-08T20:35:22.324</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\Codecamp.exe">
       <PackagePath>Codecamp.exe</PackagePath>
-      <Modified>2014-03-08T20:24:19.752</Modified>
+      <Modified>2014-03-08T20:35:21.949</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\b1.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\b1.png</PackagePath>
       <Modified>2014-03-08T16:49:34.699</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\b2.png">
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\b2.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\b2.png</PackagePath>
       <Modified>2014-03-08T16:49:34.704</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\b3.png">
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\b3.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\b3.png</PackagePath>
       <Modified>2014-03-08T16:49:34.707</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\bl1.png">
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\bl1.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\bl1.png</PackagePath>
       <Modified>2014-03-08T16:49:34.711</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\bl2.png">
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\bl2.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\bl2.png</PackagePath>
       <Modified>2014-03-08T16:49:34.715</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\bl3.png">
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\bl3.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\bl3.png</PackagePath>
       <Modified>2014-03-08T16:49:34.720</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\g1.png">
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\Black.png">
       <PackagePath>Assets\Black.png</PackagePath>
       <Modified>2014-03-08T15:09:16.547</Modified>
@@ -104,23 +66,14 @@
       <Modified>2014-03-08T11:05:27.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\g1.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\g1.png</PackagePath>
       <Modified>2014-03-08T16:49:34.723</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\g2.png">
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\g2.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\g2.png</PackagePath>
       <Modified>2014-03-08T16:49:34.726</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\g3.png">
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\g3.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\g3.png</PackagePath>
       <Modified>2014-03-08T16:49:34.730</Modified>
     </AppxPackagedFile>
@@ -128,36 +81,20 @@
       <PackagePath>Assets\Green.png</PackagePath>
       <Modified>2014-03-08T15:17:11.411</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\Logo.scale-100.png">
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\Logo.scale-100.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2014-03-08T16:49:34.689</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\r1.png">
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\r1.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\r1.png</PackagePath>
       <Modified>2014-03-08T16:49:34.737</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\r2.png">
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\r2.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\r2.png</PackagePath>
       <Modified>2014-03-08T16:49:34.741</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\r3.png">
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\r3.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\r3.png</PackagePath>
       <Modified>2014-03-08T16:49:34.747</Modified>
     </AppxPackagedFile>
@@ -165,46 +102,21 @@
       <PackagePath>Assets\Red.png</PackagePath>
       <Modified>2014-03-08T15:17:20.324</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\SmallLogo.scale-100.png">
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\SmallLogo.scale-100.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-23T04:01:02.000</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\SplashScreen.scale-100.png">
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\SplashScreen.scale-100.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-23T04:01:02.000</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\StoreLogo.scale-100.png">
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\StoreLogo.scale-100.png">
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-23T04:01:02.000</Modified>
     </AppxPackagedFile>
-<<<<<<< HEAD
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\App.xbf">
-      <PackagePath>App.xbf</PackagePath>
-      <Modified>2014-03-08T18:52:22.479</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\GamePage.xbf">
-      <PackagePath>GamePage.xbf</PackagePath>
-      <Modified>2014-03-08T20:20:48.262</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\resources.pri">
-      <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-03-08T20:16:12.970</Modified>
-=======
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\Background_Game.jpg">
       <PackagePath>Assets\Background_Game.jpg</PackagePath>
       <Modified>2014-03-08T19:25:48.268</Modified>
@@ -223,11 +135,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\GamePage.xbf">
       <PackagePath>GamePage.xbf</PackagePath>
-      <Modified>2014-03-08T18:55:30.786</Modified>
+      <Modified>2014-03-08T20:32:09.554</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\GameRules.xbf">
       <PackagePath>GameRules.xbf</PackagePath>
-      <Modified>2014-03-08T20:24:18.939</Modified>
+      <Modified>2014-03-08T20:35:21.443</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\Menu.xbf">
       <PackagePath>Menu.xbf</PackagePath>
@@ -235,8 +147,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-03-08T20:05:34.936</Modified>
->>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b
+      <Modified>2014-03-08T20:35:22.161</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
