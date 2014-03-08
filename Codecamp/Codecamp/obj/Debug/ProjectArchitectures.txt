@@ -1,1 +1,1 @@
-c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Codecamp.csproj;neutral
+C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Codecamp.csproj;neutral
