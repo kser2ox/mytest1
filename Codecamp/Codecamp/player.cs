@@ -50,7 +50,7 @@ namespace Codecamp
         public Image drawFigure()
         {
             Image figure = new Image();
-            figure.Width = 60;
+            figure.Width = 70;
             figure.Height = 50;
             figure.Margin = new Thickness(10, 10, 1000, 1000);
             return figure;
