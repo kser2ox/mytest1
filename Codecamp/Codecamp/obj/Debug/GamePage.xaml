@@ -13,7 +13,7 @@
             <ColumnDefinition Width="973*"/>
         </Grid.ColumnDefinitions>
         <TextBlock Name="greetingOutput" HorizontalAlignment="Left" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="97" Width="293" Margin="41.463,188,0,0" Grid.Column="1"/>
-        <Button x:ConnectionId='1' Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top"              Margin="525.463,104,0,0" Grid.Column="1"/>
+        <Button x:ConnectionId='0' Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top"              Margin="525.463,104,0,0" Grid.Column="1"/>
         <Image Name="pl_black" HorizontalAlignment="Left" Height="33" Margin="10,10,0,0" VerticalAlignment="Top" Width="33" Source="assets/b1.png"/>
         <Image Name="pl_blue" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="33" Source="assets/bl1.png" Margin="73,10,0,0"/>
         <Image Name="pl_green" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="33" Source="assets/g1.png" RenderTransformOrigin="0.358,0.501" Margin="10,65,0,0"/>

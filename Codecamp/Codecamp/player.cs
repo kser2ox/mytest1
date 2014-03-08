@@ -56,6 +56,7 @@ namespace Codecamp
             return figure;
             //figure.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("/Assets/check.png");
             //gfgfgfdgd
+            //iuygjhg
 
            // ImageSource imgsrc = new ImageSource("Assets/g1.png");
 
