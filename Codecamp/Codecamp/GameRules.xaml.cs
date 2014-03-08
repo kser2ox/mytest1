@@ -135,7 +135,7 @@ namespace Codecamp
 
         private void Red_Tapped(object sender, TappedRoutedEventArgs e)
         {
-            pc = 2;
+            pc = 1;
         }
 
         private void Green_Tapped(object sender, TappedRoutedEventArgs e)
