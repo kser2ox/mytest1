@@ -55,7 +55,7 @@ namespace Codecamp
             figure.Margin = new Thickness(10, 10, 1000, 1000);
             return figure;
             //figure.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("/Assets/check.png");
-
+            //gfgfgfdgd
 
            // ImageSource imgsrc = new ImageSource("Assets/g1.png");
 
