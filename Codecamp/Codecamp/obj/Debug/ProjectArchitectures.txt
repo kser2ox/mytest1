@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\Codecamp.csproj;neutral
+=======
+C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Codecamp.csproj;neutral
+>>>>>>> 33c8a2bf8ba5d9eb19dacb5cfa796ff28b4c211b

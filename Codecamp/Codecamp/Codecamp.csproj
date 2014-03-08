@@ -105,9 +105,19 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Common\NavigationHelper.cs" />
+    <Compile Include="Common\ObservableDictionary.cs" />
+    <Compile Include="Common\RelayCommand.cs" />
+    <Compile Include="Common\SuspensionManager.cs" />
     <Compile Include="field.cs" />
     <Compile Include="GamePage.xaml.cs">
       <DependentUpon>GamePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GameRules.xaml.cs">
+      <DependentUpon>GameRules.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.xaml.cs">
+      <DependentUpon>Menu.xaml</DependentUpon>
     </Compile>
     <Compile Include="player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -125,16 +135,25 @@
     <Content Include="Assets\bl1.png" />
     <Content Include="Assets\bl2.png" />
     <Content Include="Assets\bl3.png" />
+    <Content Include="Assets\Black.png" />
+    <Content Include="Assets\Blue.png" />
+    <Content Include="Assets\Button_Done.png" />
+    <Content Include="Assets\Button_Play.png" />
     <Content Include="Assets\g1.png" />
     <Content Include="Assets\g2.png" />
     <Content Include="Assets\g3.png" />
+    <Content Include="Assets\Green.png" />
     <Content Include="Assets\Logo.scale-100.png" />
     <Content Include="Assets\r1.png" />
     <Content Include="Assets\r2.png" />
     <Content Include="Assets\r3.png" />
+    <Content Include="Assets\Red.png" />
     <Content Include="Assets\SmallLogo.scale-100.png" />
     <Content Include="Assets\SplashScreen.scale-100.png" />
     <Content Include="Assets\StoreLogo.scale-100.png" />
+    <Content Include="Assets\Background_Game.jpg" />
+    <Content Include="Assets\Background_Game2.jpg" />
+    <Content Include="Common\ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
@@ -144,6 +163,14 @@
     <Page Include="GamePage.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GameRules.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Menu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
