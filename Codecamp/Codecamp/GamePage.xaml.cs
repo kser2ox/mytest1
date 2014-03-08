@@ -96,7 +96,7 @@ namespace Codecamp
             Random rnd = new Random();
             int step = rnd.Next(1, 7);
             greetingOutput.Text = " " + step;
-            figure4.Margin = new Thickness(60, 60+30, 0, 0);
+            //figure4.Margin = new Thickness(60, 60+30, 0, 0);
 
             /*Image figure4 = new Image();
             figure4.Width = 40;
