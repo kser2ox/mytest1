@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KS-PC</Machine>
+    <WindowsUser>kser2ox</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ec7a8b12-5e4d-42ab-81b0-38cb82a2647f</PackageIdentityName>
+    <RegisteredManifestChecksum>159E1A17E6F1C83114B9C4F26485B18552D2C3E5803C8CF459C289E975998E16</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ec7a8b12-5e4d-42ab-81b0-38cb82a2647f_1.0.0.0_neutral__r5sm59dcscmfw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ec7a8b12-5e4d-42ab-81b0-38cb82a2647f_r5sm59dcscmfw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ec7a8b12-5e4d-42ab-81b0-38cb82a2647f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=kser2ox</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-08T16:04:23.435</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\bin\Debug\Codecamp.exe">
+      <PackagePath>Codecamp.exe</PackagePath>
+      <Modified>2014-03-08T16:25:39.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\b1.png">
+      <PackagePath>Assets\b1.png</PackagePath>
+      <Modified>2014-03-08T14:30:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\b2.png">
+      <PackagePath>Assets\b2.png</PackagePath>
+      <Modified>2014-03-08T14:30:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\b3.png">
+      <PackagePath>Assets\b3.png</PackagePath>
+      <Modified>2014-03-08T14:30:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\bl1.png">
+      <PackagePath>Assets\bl1.png</PackagePath>
+      <Modified>2014-03-08T14:26:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\bl2.png">
+      <PackagePath>Assets\bl2.png</PackagePath>
+      <Modified>2014-03-08T14:26:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\bl3.png">
+      <PackagePath>Assets\bl3.png</PackagePath>
+      <Modified>2014-03-08T14:26:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\g1.png">
+      <PackagePath>Assets\g1.png</PackagePath>
+      <Modified>2014-03-08T14:28:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\g2.png">
+      <PackagePath>Assets\g2.png</PackagePath>
+      <Modified>2014-03-08T14:28:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\g3.png">
+      <PackagePath>Assets\g3.png</PackagePath>
+      <Modified>2014-03-08T14:29:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T02:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\r1.png">
+      <PackagePath>Assets\r1.png</PackagePath>
+      <Modified>2014-03-08T14:20:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\r2.png">
+      <PackagePath>Assets\r2.png</PackagePath>
+      <Modified>2014-03-08T14:22:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\r3.png">
+      <PackagePath>Assets\r3.png</PackagePath>
+      <Modified>2014-03-08T14:22:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T02:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T02:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T02:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-03-08T11:00:21.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\bin\Debug\GamePage.xbf">
+      <PackagePath>GamePage.xbf</PackagePath>
+      <Modified>2014-03-08T16:25:00.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-03-08T16:04:23.264</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
