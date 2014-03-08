@@ -51,7 +51,7 @@ namespace Codecamp
         {
             Image figure = new Image();
 
-            figure.Width = 6000;
+            figure.Width = 23000;
 
             figure.Height = 50;
             figure.Margin = new Thickness(10, 10, 1000, 1000);
