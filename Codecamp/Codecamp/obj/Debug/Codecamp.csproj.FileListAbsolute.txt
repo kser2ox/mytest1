@@ -29,3 +29,11 @@ c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\obj\Deb
 c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\bin\Debug\GamePage.xbf
 c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\obj\Debug\GamePage.xaml
 c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\obj\Debug\GamePage.xbf
+C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\obj\Debug\App.g.i.cs
+C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\obj\Debug\App.g.cs
+C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\obj\Debug\GamePage.g.i.cs
+C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\obj\Debug\GamePage.g.cs
+C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\obj\Debug\Codecamp.exe
+C:\Users\kser2ox\Documents\GitHub\mytest1\Codecamp\Codecamp\obj\Debug\Codecamp.pdb
