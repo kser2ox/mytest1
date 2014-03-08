@@ -50,16 +50,12 @@ namespace Codecamp
         public Image drawFigure()
         {
             Image figure = new Image();
-
-            figure.Width = 23000;
-            figure.Width = 5000;
-
+            figure.Width = 50;
             figure.Height = 50;
             figure.Margin = new Thickness(10, 10, 1000, 1000);
             return figure;
             //figure.Source = (ImageSource)new ImageSourceConverter().ConvertFromString("/Assets/check.png");
-            //gfgfgfdgd
-            //iuygjhg
+
 
            // ImageSource imgsrc = new ImageSource("Assets/g1.png");
 

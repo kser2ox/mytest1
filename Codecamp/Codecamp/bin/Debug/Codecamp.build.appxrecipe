@@ -1,81 +1,114 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>KS-PC</Machine>
-    <WindowsUser>kser2ox</WindowsUser>
+    <Machine>SAMSUNG</Machine>
+    <WindowsUser>Vlad</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>ec7a8b12-5e4d-42ab-81b0-38cb82a2647f</PackageIdentityName>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\bin\Debug\Codecamp.exe">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\Codecamp.exe">
       <PackagePath>Codecamp.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\b1.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\b1.png">
       <PackagePath>Assets\b1.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\b2.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\b2.png">
       <PackagePath>Assets\b2.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\b3.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\b3.png">
       <PackagePath>Assets\b3.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\bl1.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\bl1.png">
       <PackagePath>Assets\bl1.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\bl2.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\bl2.png">
       <PackagePath>Assets\bl2.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\bl3.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\bl3.png">
       <PackagePath>Assets\bl3.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\g1.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\Black.png">
+      <PackagePath>Assets\Black.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\Blue.png">
+      <PackagePath>Assets\Blue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\Button_Done.png">
+      <PackagePath>Assets\Button_Done.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\Button_Play.png">
+      <PackagePath>Assets\Button_Play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\g1.png">
       <PackagePath>Assets\g1.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\g2.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\g2.png">
       <PackagePath>Assets\g2.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\g3.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\g3.png">
       <PackagePath>Assets\g3.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\Green.png">
+      <PackagePath>Assets\Green.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\r1.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\r1.png">
       <PackagePath>Assets\r1.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\r2.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\r2.png">
       <PackagePath>Assets\r2.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\r3.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\r3.png">
       <PackagePath>Assets\r3.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\Red.png">
+      <PackagePath>Assets\Red.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\Background_Game.jpg">
+      <PackagePath>Assets\Background_Game.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Assets\Background_Game2.jpg">
+      <PackagePath>Assets\Background_Game2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\bin\Debug\GamePage.xbf">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\GamePage.xbf">
       <PackagePath>GamePage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\kser2ox\documents\visual studio 2013\Projects\Codecamp\Codecamp\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\GameRules.xbf">
+      <PackagePath>GameRules.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\Menu.xbf">
+      <PackagePath>Menu.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zan60_000\Documents\GitHub\mytest1\Codecamp\Codecamp\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
